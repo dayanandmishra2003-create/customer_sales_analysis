@@ -62,4 +62,5 @@ The EDA notebook contains more than **10 professional charts**, including:
 
 ---
 
-## 📁 File Structure
+If you like this project, feel free to ⭐ star the repo!
+
